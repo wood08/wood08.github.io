@@ -57,3 +57,5 @@ git rm 만 하는 경우에는 로컬과 원격에서 파일이 삭제된다.
 push 실행
 
 제대로 잘 삭제 됐는지 확인하는건 필수!
+
+참고링크 https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
