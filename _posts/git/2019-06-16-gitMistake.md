@@ -63,4 +63,4 @@ push 실행
 
 제대로 잘 삭제 됐는지 확인하는건 필수!
 
-참고링크 https://help.github.com/en/articles/removing-sensitive-data-from-a-repository
+참고링크 <https://help.github.com/en/articles/removing-sensitive-data-from-a-repository>
