@@ -5,7 +5,7 @@ categories:
 tags:
   - laravel, ORM
 ---
-라라벨에서 데이터를 생성(입력)하는 방법으로 두가지 방법이 있다.
+라라벨에서 데이터를 생성(입력)하는 방법으로 대표적으로 두가지 방법이 있다.
 1. create
 2. save(insert)
 
@@ -15,3 +15,8 @@ fillable 은 사용할 필드명을 지정(화이트리스트), guarded 는 사�
 
 자세한 내용은 다음 링크 확인
 <https://laravel.kr/docs/5.8/eloquent#mass-assignment>
+
+그 외에 데이터 생성 방법으로는
+firstOrCreate, firstOrNew, updateOrCreate 가 있다.
+firstOrNew 는 save 를 해줘야지 저장된다.
+<https://laravel.kr/docs/5.8/eloquent#other-creation-methods>
