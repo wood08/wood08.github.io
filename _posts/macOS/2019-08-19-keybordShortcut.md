@@ -16,8 +16,8 @@ tags:
 | command + shift + z | 실행취소한것 되돌리기 |
 | command + w | 창 닫기 | 
 | command + q | 프로그램 종료 | 
-| command + [좌우방향키] | Hoem, End | 
-| command + shift + [좌우방향키] | Home, End 범위 블럭지정 |
+| command + 좌우방향키 | Hoem, End | 
+| command + shift + 좌우방향키 | Home, End 범위 블럭지정 |
 
 chrom
 ---
@@ -33,3 +33,13 @@ phpStorm
 | command + shift + t | 테스트파일로 이동 or 테스트파일이 없는 경우 생성 | 
 | option + control + o | 사용하지 않는 use 삭제 |
 | shift + control + r | (테스트파일에서) 테스트 실행 |
+| command + e | 최근 작업 파일 리스트 확인 | 
+| command + delete | 한 줄 삭제하기 |
+| command + option + / | 지정 범위 주석처리 | 
+
+
+iTerm2
+---
+| command + [, ] | 터미널 창 이동 | 
+| command + 상하방향키 | 창 스크롤 | 
+
