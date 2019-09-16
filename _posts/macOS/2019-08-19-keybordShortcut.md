@@ -51,4 +51,4 @@ iTerm2
 |:---|:---|
 | command + [, ] | 터미널 창 이동 | 
 | command + 상하방향키 | 창 스크롤 | 
-
+| command + control + 좌우방향키 | 창크기 조절 
